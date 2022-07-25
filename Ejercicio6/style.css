@@ -1,0 +1,10 @@
+#button-main::before{
+    content : "Pasa por encima";
+}
+#button-main:hover{
+    color: white;
+    background-color: rgb(37, 121, 37);
+}
+#button-main::before{
+    content:"Hecho";
+}
